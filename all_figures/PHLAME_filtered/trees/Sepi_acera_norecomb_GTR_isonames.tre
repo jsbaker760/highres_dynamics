@@ -1,0 +1,180 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=78;
+	taxlabels
+	1AA1C_Z06_73
+	1AA1N_Z07_92
+	1AA3C_23YAS_86
+	1AA3C_23YAS_94
+	1AA4C_Z02_81
+	1AA4C_Z02_85
+	1PA1K_28JA_10
+	1PA1K_28JA_17
+	1PA1N_28JB_9
+	1PA4C_22YD_91
+	1PA4F_22YD_26
+	1PA4F_22YD_37
+	1PA4N_22YD_67
+	1PB2C_Z08_34
+	1PB2F_Z08_47
+	1PB3C_23YAC_20
+	1PB3C_8YDS_62
+	1PB3C_8YDS_76
+	1PB3C_8YDS_84
+	2AA1N_28JB_25
+	2AB1C_X02_05
+	2AA3C_23YBC_2
+	2AA3N_8YCS_7
+	2PA1C_11JCS_67
+	2PA1C_11JCS_70
+	2PA1C_11JCS_92
+	2PA3C_15YE_37
+	2PA3C_15YE_81
+	2PA3C_15YE_82
+	2PA3N_15YE_35
+	2PB1C_Z06_66
+	2PB1C_Z08_1
+	2PB1N_24JB_86
+	3AA2C_X08_85
+	3AA2C_X08_86
+	3AA2C_X08_87
+	3AB2K_S2R2_37
+	4AA1F_X13_48
+	4AA1F_X14_74
+	4AA1F_X14_75
+	4AA1F_X14_79
+	4AA1K_X15_26
+	4AA1K_X15_37
+	4AB1N_X15_60
+	4AB1N_X15_62
+	5AA1F_X12_66
+	5AA3C_Z01_81
+	5AB3K_Z08_20
+	5PA1C_11JBS_89
+	5PA1C_11JBS_92
+	5PA1C_11JBS_94
+	5PA1F_11JBS_3
+	5PA1N_11JBS_61
+	5PB3C_22YC_86
+	5PB3K_24YB_54
+	7AA1C_28JC_5
+	7AA1C_X14_93
+	7AA4C_23YAC_39
+	7AA4C_Z07_48
+	7AB4F_22YB_2
+	7AB4N_22YB_3
+	7PA1C_28JC_95
+	8AA4N_22YB_29
+	8AB1C_25YH_90
+	8AB1F_25YH_4
+	8AB1K_25YH_62
+	8AB4C_23YAS_12
+	8AB4C_23YAS_55
+	8AB4C_25YA_77
+	8AC1N_25YC_3
+	8AC1C_S_85
+	8AC4C_8YAS_89
+	8PA3C_23YES_73
+	8PA3C_23YES_85
+	8PA3K_23YES_69
+	8PA3N_23YES_41
+	8PB1C_25YC_48
+	8PB4N_25YD_28
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (3AA2C_X08_86[&!color=#ff8000]:3.48E-4,((7AA4C_23YAC_39[&!color=#ff8000]:4.67E-4,((((8PB4N_25YD_28[&!color=#ff8000]:0.019716,(8AB4C_23YAS_12[&!color=#ff8000]:0.004573,2AB1C_X02_05[&!color=#ff8000]:0.010142)[&!color=#ff8000]:0.006932)[&!color=#ff8000]:0.004145,((1PB3C_8YDS_62[&!color=#ff8000]:0.012958,(4AA1K_X15_26[&!color=#ff8000]:0.011593,(3AB2K_S2R2_37[&!color=#ff8000]:0.010211,(7AB4N_22YB_3[&!color=#ff8000]:0.003216,(5AA1F_X12_66[&!color=#ff8000]:2.21E-4,5AB3K_Z08_20[&!color=#ff8000]:3.65E-4)[&!color=#ff8000]:0.001906)[&!color=#ff8000]:0.010596)[&!color=#ff8000]:0.004639)[&!color=#ff8000]:0.009215)[&!color=#ff8000]:0.003946,((((((2PB1C_Z08_1[&!color=#ff00ff]:0.006365,2AA3N_8YCS_7[&!color=#ff00ff]:0.008563)[&!color=#ff00ff]:0.024867,((8AB1F_25YH_4[&!color=#ff00ff]:8.72E-4,(1PB2F_Z08_47[&!color=#ff00ff]:8.59E-4,1PA1N_28JB_9[&!color=#ff00ff]:0.001136)[&!color=#ff00ff]:1.2E-5)[&!color=#ff00ff]:5.96E-4,5PA1F_11JBS_3[&!color=#ff00ff]:0.001075)[&!color=#ff00ff]:0.028199)[&!color=#ff00ff]:0.05837,(((8AC1C_S_85[&!color=#00ffff]:7.14E-4,2PA3C_15YE_37[&!color=#00ffff]:8.76E-4)[&!color=#00ffff]:1.04E-4,1PA1K_28JA_17[&!color=#00ffff]:0.001605)[&!color=#00ffff]:0.011457,((1AA3C_23YAS_86[&!color=#00ff00]:0.016621,(8AB1C_25YH_90[&!color=#00ff00]:0.001966,7AB4F_22YB_2[&!color=#00ff00]:5.23E-4)[&!color=#00ff00]:0.014061)[&!color=#00ff00]:0.013857,(((4AA1K_X15_37[&!color=#00ff00]:5.35E-4,4AA1F_X13_48[&!color=#00ff00]:7.61E-4)[&!color=#00ff00]:0.035793,(2PA3N_15YE_35[&!color=#00ff00]:0.077785,(4AB1N_X15_60[&!color=#00ff00]:0.031792,4AA1F_X14_74[&!color=#00ff00]:0.023477)[&!color=#00ff00]:0.00887)[&!color=#00ff00]:0.009875)[&!color=#00ff00]:0.014449,(3AA2C_X08_87[&!color=#00ff00]:0.023718,3AA2C_X08_85[&!color=#00ff00]:0.008729)[&!color=#00ff00]:0.008709)[&!color=#00ff00]:0.010803)[&!color=#00ff00]:0.066957):0.103357)[&!color=#ff8000]:0.018593,1PB2C_Z08_34[&!color=#ff8000]:0.018645)[&!color=#ff8000]:0.004913,((2PA1C_11JCS_67[&!color=#ff8000]:0.001231,8AB4C_25YA_77[&!color=#ff8000]:0.001607)[&!color=#ff8000]:0.011984,1AA4C_Z02_81[&!color=#ff8000]:0.007701)[&!color=#ff8000]:0.0074)[&!color=#ff8000]:0.001259,(((((1AA4C_Z02_85[&!color=#ff8000]:8.74E-4,((8PA3C_23YES_85[&!color=#ff8000]:6.9E-4,5PA1C_11JBS_92[&!color=#ff8000]:5.67E-4)[&!color=#ff8000]:7.8E-5,(((1PA4F_22YD_26[&!color=#ff8000]:6.9E-4,2AA3C_23YBC_2[&!color=#ff8000]:6.96E-4)[&!color=#ff8000]:1.48E-4,7PA1C_28JC_95[&!color=#ff8000]:5.8E-4)[&!color=#ff8000]:5.8E-5,((2PA1C_11JCS_70[&!color=#ff8000]:1.75E-4,2PB1C_Z06_66[&!color=#ff8000]:1.48E-4)[&!color=#ff8000]:7.4E-4,(7AA1C_28JC_5[&!color=#ff8000]:5.8E-4,((4AB1N_X15_62[&!color=#ff8000]:6.51E-4,(8AC1N_25YC_3[&!color=#ff8000]:5.29E-4,5PB3K_24YB_54[&!color=#ff8000]:6.83E-4)[&!color=#ff8000]:9.6E-5)[&!color=#ff8000]:6.0E-6,8AC4C_8YAS_89[&!color=#ff8000]:6.96E-4)[&!color=#ff8000]:1.0E-6)[&!color=#ff8000]:2.6E-5)[&!color=#ff8000]:2.06E-4)[&!color=#ff8000]:5.8E-5)[&!color=#ff8000]:4.87E-4)[&!color=#ff8000]:8.31E-4,(1PA4F_22YD_37[&!color=#ff8000]:5.67E-4,5PA1C_11JBS_89[&!color=#ff8000]:4.32E-4)[&!color=#ff8000]:7.27E-4)[&!color=#ff8000]:0.006682,(1AA1N_Z07_92[&!color=#ff8000]:0.003152,2PB1N_24JB_86[&!color=#ff8000]:0.001317)[&!color=#ff8000]:0.010832)[&!color=#ff8000]:0.001245,((1PA4C_22YD_91[&!color=#ff8000]:0.0011,1PA1K_28JA_10[&!color=#ff8000]:0.006779)[&!color=#ff8000]:0.004084,(8PA3C_23YES_73[&!color=#ff8000]:3.74E-4,4AA1F_X14_79[&!color=#ff8000]:3.36E-4)[&!color=#ff8000]:0.005307)[&!color=#ff8000]:0.008149)[&!color=#ff8000]:0.002973,((1AA1C_Z06_73[&!color=#ff8000]:0.004816,(2PA3C_15YE_82[&!color=#ff8000]:0.007226,((8PA3N_23YES_41[&!color=#ff8000]:0.001475,2PA3C_15YE_81[&!color=#ff8000]:0.001665)[&!color=#ff8000]:0.001238,2PA1C_11JCS_92[&!color=#ff8000]:3.66E-4)[&!color=#ff8000]:0.003117)[&!color=#ff8000]:0.001226)[&!color=#ff8000]:0.002262,(7AA1C_X14_93[&!color=#ff8000]:0.001072,(1PB3C_8YDS_76[&!color=#ff8000]:4.82E-4,5PA1N_11JBS_61[&!color=#ff8000]:3.62E-4)[&!color=#ff8000]:3.6E-4)[&!color=#ff8000]:0.007296)[&!color=#ff8000]:0.003352)[&!color=#ff8000]:0.003368)[&!color=#ff8000]:0.001503)[&!color=#ff8000]:0.001749)[&!color=#ff8000]:0.00127,((((1AA3C_23YAS_94[&!color=#ff8000]:0.008398,(1PA4N_22YD_67[&!color=#ff8000]:0.019879,((8AB1K_25YH_62[&!color=#ff8000]:5.21E-4,2AA1N_28JB_25[&!color=#ff8000]:3.08E-4)[&!color=#ff8000]:0.009424,8PA3K_23YES_69[&!color=#ff8000]:0.007398)[&!color=#ff8000]:0.002842)[&!color=#ff8000]:0.002307)[&!color=#ff8000]:0.002824,5PA1C_11JBS_94[&!color=#ff8000]:0.009425)[&!color=#ff8000]:0.002335,(5PB3C_22YC_86[&!color=#ff8000]:0.012075,8AB4C_23YAS_55[&!color=#ff8000]:0.010552)[&!color=#ff8000]:0.003695)[&!color=#ff8000]:0.001851,(1PB3C_8YDS_84[&!color=#ff8000]:0.00643,(4AA1F_X14_75[&!color=#ff8000]:3.56E-4,(8AA4N_22YB_29[&!color=#ff8000]:3.73E-4,7AA4C_Z07_48[&!color=#ff8000]:3.09E-4)[&!color=#ff8000]:1.02E-4)[&!color=#ff8000]:0.007588)[&!color=#ff8000]:0.008915)[&!color=#ff8000]:9.01E-4)[&!color=#ff8000]:0.002467,8PB1C_25YC_48[&!color=#ff8000]:0.009102)[&!color=#ff8000]:0.011787)[&!color=#ff8000]:1.0E-4,1PB3C_23YAC_20[&!color=#ff8000]:2.77E-4)[&!color=#ff8000]:3.9E-5,5AA3C_Z01_81[&!color=#ff8000]:3.48E-4);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

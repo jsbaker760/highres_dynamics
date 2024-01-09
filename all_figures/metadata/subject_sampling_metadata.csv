@@ -1,0 +1,146 @@
+﻿SID,SEX,DOB,CLASS,SubjectCode,SamplingKitCode,SampleNameCode,SamplingDate,CheckedFormForCompleteness,F_score,N_score,K_score,C_score,Dryness,Facial Hair,Checked_qnairre,ChronicIllness,SkinConditions,Allergies,Dietary,Accutaine,Wash,Cosmetics,Moisturizer,Sunscreen,Products,Antibiotics,is_followup,FollowUP1,FollowUP1,ABX
+0CA,M,1-Jun-1995,A,0,81,81,25-Oct-2018,1,1,3,1,1,C,PDCK,,,,,,,,,,,,,,,,
+0CB,M,1-Sep-1991,A,0,83,83,25-Oct-2018,1,1,1,1,1,C,PDK,,,,,,,,,,,,,,,,
+5PA,F,1-Feb-1973,A,1,1,1,29-May-2018,1,0,1,0,0,C,N,1,,,latex,,,Daily,Weekly,Daily,Weekly,Normal,3,,,,
+2PB,M,1-May-1967,A,2,9,9,29-May-2018,1,0,1,0,0,C,"P,C,K",MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+36AA,F,1-Aug-2009,C,3,5,5,29-May-2018,1,0,0,0,0,C,N,1,,,shellfish,,,,Never,Never,Weekly,Normal,3,,,,
+2AA,F,1-Aug-2004,C,4,29,4,29-May-2018,1,3,1,2,1,O,N,1,,,,,,Daily,Daily,Daily,Weekly,Normal,2,,,,
+33AA,F,1-Dec-2004,C,5,42,42,29-May-2018,1,1,1,1,2,D,N,1,,eczema,sesame,vegetarian,,Daily,Weekly,Monthly,Never,Normal,4,,,,
+13AA,F,1-Nov-2005,C,6,12,12,29-May-2018,1,1,1,1,1,D,N,1,,"keratosis pilaris, impetigo",,,,Daily,Never,Never,Never,Normal,2,,,,
+21AA,M,1-Mar-2005,C,7,27,27,29-May-2018,1,2,2,2,2,O,N,1,,acne,,,proactiv,Daily,Never,Never,Weekly,"Acne,exfoliants",4,,,,
+28AA,M,NaN,C,8,47,47,29-May-2018,1,1,1,2,1,D,N,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+19AA,F,1-Mar-2006,C,9,51,51,29-May-2018,1,3,2,1,2,C,N,1,,acne,,,,Daily,Never,Never,Monthly,Acnes,1,,,,
+32AA,F,1-May-2004,C,10,52,52,29-May-2018,1,3,2,2,3,O,N,1,,acne,lactose,,,Daily,Weekly,Daily,Daily,"clindamycin,differin,benzoyl peroxide",3,,,,
+34AA,M,1-Jan-2004,C,11,NaN,NaN,29-May-2018,1,1,1,1,1,C,"P,C ",1,,,nuts,,,Daily,Never,Never,Monthly,Normal,4,,,,
+2AB,M,1-Aug-2007,C,12,50,50,29-May-2018,1,1,1,1,2,C,N,1,,,,,,Weekly,Never,Weekly,Weekly,Normal,2,,,,
+26AA,M,1-Jul-2005,C,13,48,48,29-May-2018,1,1,1,2,1,C,N,1,,,celiac,gluten,,Daily,Never,Never,Daily,Normal,3,,,,
+35AA,M,1-Mar-2004,C,14,40,40,29-May-2018,1,1,1,2,1,C,P,1,,,,Vegetarian,,Weekly,Never,Never,Daily,Normal,3,,,,
+25AA,M,1-Mar-2004,C,15,19,19,29-May-2018,1,2,3,1,3,C,P,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+19PA,F,1-Feb-1977,A,16,18,18,30-May-2018,1,3,1,1,3,O,N,1,,acne,,,,Daily,never,Daily,Daily,"Retinoids,spirolactone",1,,,,
+6PA,F,1-Nov-1960,A,17,15,17,30-May-2018,1,2,2,1,1,O,"P,C",1,,,,,,Daily,never,Weekly,Never,Normal,3,,,,
+7PA,F,1-Jan-1974,A,18,46,46,30-May-2018,1,1,1,1,1,D,N,1,,psoriasis,,no fruits/veg,,Daily,never,Daily,Never,"salasylic acid, exfoliants",3,,,,
+5AA,F,1-Mar-2009,C,19,3,3,29-May-2018,1,0,0,0,0,C,N,1,,eczema,"nuts,sesame,eggs",,,Daily,Never,Never,Daily,Normal,3,,,,
+8AB,M,1-Nov-2004,C,20,49,49,30-May-2018,1,3,2,2,3,C,N,1,,"acne,psoriasis",,,,Weekly,Never,Never,Never,Normal,3,,,,
+7AB,M,1-Dec-2007,C,21,45,45,30-May-2018,1,0,0,0,0,D,N,1,,psoriasis,,,,Daily,Never,Never,Weekly,Normal,3,,,,
+22AA,F,1-Sep-2003,C,22,43,43,30-May-2018,1,1,1,0,0,C,N,1,,fragile skin as infant,,,,Weekly,Monthly,Never,Daily,salasylic acid,3,,,,
+7AA,F,1-Jun-2005,C,23,65,65,30-May-2018,1,3,1,2,3,D,N,1,,,,,,Daily,Never,Never,Weekly,salasylic acid,3,,,,
+13PB,M,1-Mar-1966,A,43,34,34,29-May-2018,1,0,1,0,1,D,N,1,,dry skin,,,,Daily,Never,Weekly,Weekly,Normal,3,,,,
+15PA,F,1-Sep-1971,A,44,7,7,29-May-2018,1,0,1,0,0,C,N,1,,"myasthenia,arthritis","shellfish,dust",,as a teenager,Daily,Never,Daily,Daily,"Salasylic acid, exfoliants",3,,,,
+29AA,M,1-Oct-2008,C,45,67,67,29-May-2018,1,0,0,0,0,C,N,1,,,,,,Daily,Never,Never,Never,Normal,2,,,,
+17AA,F,1-Jan-2009,C,46,4,446,29-May-2018,1,0,0,0,0,C,N,1,,eczema,,,,Weekly,Never,Never,Monthly,Normal,3,,,,
+4AC,M,1-Jan-2009,C,47,8,8,29-May-2018,1,0,1,1,1,C,N,1,eosinophilic asophagitis,hives as infant,,,,Daily,Never,Never,Daily,Normal,3,,,,
+11AA,F,1-Oct-2004,C,48,2,2,29-May-2018,1,0,0,0,1,C,N,1,,,,,,Daily,Monthly,Rarely,Weekly,Normal,1,,,,
+4AB,F,1-Oct-2004,C,49,30,30,29-May-2018,1,2,1,2,0,C,N,0,,Acne;Eczema,,,,,,,,,,,,,
+6AA,M,1-Sep-2003,C,50,13,13,29-May-2018,1,2,1,0,2,O,"P,C,K",1,,,,,,Weekly,Never,Never,Weekly,Normal,3,,,,
+15AA,F,1-Sep-2006,C,51,10,10,29-May-2018,1,1,1,0,2,C,N,1,,,,Vegetarian,,Daily,Never,Never,Daily,Acne,3,,,,
+9AA,M,1-Mar-2005,C,52,36,36,29-May-2018,1,2,1,0,1,O,N,1,,,,,,Daily,Never,Never,Weekly,Normal,4,,,,
+17AB,M,1-Apr-2006,C,53,26,26,29-May-2018,1,0,1,0,0,C,N,1,,,gluten,gluten,,Weekly,Never,Never,Monthly,Normal,3,,,,
+31AA,M,1-Feb-2006,C,54,33,33,29-May-2018,1,0,1,0,2,C,N,1,,dry skin on hands and legs,,,,Daily,Never,Daily,Weekly,Normal,4,,,,
+4AA,M,1-Oct-2004,C,55,24,24,29-May-2018,1,3,1,0,2,O,N,1,,,,,,Weekly,Never,Never,Weekly,salasylic acid,3,,,,
+11PA,F,1-Nov-1970,A,56,25,25,29-May-2018,1,0,1,0,0,D,N,1,,"rosacea,dry skin",fragrances,,,Daily,Daily,Daily,Daily,Normal,2,,,,
+2PA,F,1-May-1968,A,57,54,54,30-May-2018,1,1,1,0,0,VD,N,1,,,,,,Daily,Never,Daily,Weekly,Normal,3,,,,
+23PA,F,NaN,C,58,39,39,29-May-2018,1,0,1,0,0,C,W,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+25PA,F,1-May-1973,A,59,32,32,29-May-2018,1,0,1,0,1,C,N,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+1PA,F,1-Dec-1964,A,60,16,60,30-May-2018,1,0,1,0,0,D,N,1,,,,Vegetarian,,Daily,Daily,Daily,Never,Normal,4,,,,
+8PB,M,1-Sep-1977,A,61,41,41,30-May-2018,1,0,1,0,0,D,"P,C,K",1,,,,,,Daily,Never,Never,Never,Normal,1,,,,
+24AA,M,1-Jun-2004,C,62,22,22,30-May-2018,1,0,0,0,0,C,N,1,,,,Vegetarian,,Daily,Never,Never,Daily,Normal,3,,,,
+22PA,F,1-Aug-1972,C,63,44,44,30-May-2018,1,0,1,0,1,VD,N,1,arthritis,"rosacea,acne",shellfish,,,Daily,Daily,Daily,Weekly,Aging,3,,,,
+23AA,M,1-Sep-2008,C,64,57,57,30-May-2018,1,0,1,0,0,C,N,1,,,,,,Daily,Never,Never,Daily,Normal,4,,,,
+8AC,F,1-Jul-2007,C,65,21,21,30-May-2018,1,0,0,0,0,C,N,1,,,,,,Weekly,Never,Never,Never,Normal,3,,,,
+1AA,M,1-Sep-2004,C,66,20,20,30-May-2018,1,3,1,1,1,O,N,1,,acne,,,,,,,,,,,,,
+5AB,M,1-Jul-2007,C,67,61,61,30-May-2018,1,0,0,0,0,C,N,1,,eczema,"cats,eggs,nuts,sesame,pollen",,,Daily,Never,Never,Daily,Normal,3,,,,
+27AA,M,1-Oct-2004,C,68,56,56,30-May-2018,1,0,3,0,3,O,"P,C,K",1,,,"grass,rabbits",,,Daily,Never,Never,Daily,Normal,3,,,,
+4PA,F,1-Sep-1972,A,99,94,94,25-Oct-2018,1,1,1,1,1,D,N,1,Primary Biliary Cholanghitis; Reynaud Syndrome,,,Lactose Intolerance,,Daily,Monthly,Daily,Weekly,Normal,1,,,,
+14PA,F,1-Mar-1977,A,113,98,98,25-Oct-2018,1,2,1,1,1,C,N,1,,,,Lactose Intolerance,,Daily,Monthly,Daily,Weekly,Normal,3,,,,
+14AA,M,1-Aug-2011,A,114,99,99,25-Oct-2018,1,1,2,1,1,O,N,1,,,,,,Daily,Never,Never,Weekly,Normal,3,,,,
+9AA,M,1-Mar-2005,C,115,91,91,25-Oct-2018,1,2,2,2,2,O,N,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+9PA,F,1-Sep-1966,A,116,97,97,25-Oct-2018,1,1,1,1,1,D,N,1,,rosacea,grass,,,Weekly,Weekly,Weekly,Weekly,Dry skin,0,,,,
+1PA,F,1-Dec-1964,A,117,92,92,25-Oct-2018,1,1,1,1,1,C,N,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+1PB,M,1-Jun-1958,A,118,96,96,25-Oct-2018,1,1,1,1,1,C,"P,C,K",1,,,,,,Daily,Never,Never,Rarely,Normal,4,,,,
+3PA,F,1-Aug-1984,A,119,95,95,25-Oct-2018,1,1,1,1,1,D,N,1,,,,,,Daily,Never,Daily,Never,Normal,3,,,,
+3AA,M,1-Dec-2011,C,120,93,93,25-Oct-2018,1,0,1,0,0,D,N,1,,,,,,Daily,Never,Never,Never,Normal,3,,,,
+3AB,F,1-Aug-2013,C,121,90,90,25-Oct-2018,1,0,0,0,0,D,N,1,,,,,,Daily,Never,Never,Never,Normal,3,,,,
+18AA,F,NaN,A,122,NaN,NaN,25-Oct-2018,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+18PA,F,NaN,C,123,NaN,NaN,25-Oct-2018,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+20PA,F,1-Apr-1967,A,124,NaN,NaN,25-Oct-2018,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,1,alopecia areata,acne,,vegetarian,,Daily,Weekly,Daily,Daily,Normal,1,,,,
+20PB,M,1-Nov-1967,A,125,NaN,NaN,25-Oct-2018,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,1,,,,vegetarian,,Daily,Never,Never,Never,Normal,4,,,,
+20AA,M,1-Jan-2011,C,126,NaN,NaN,25-Oct-2018,1,0,1,0,0,VD,P,1,,,,vegetarian,,Daily,Never,Never,Monthly,Normal,4,,,,
+17PA,F,1-Jun-1972,A,200,35,35,12-Dec-2018,1,0,0,0,1,C,N,1,"endometriosis,rosacea",,corn,,,Daily,Daily,Daily,Daily,Aging,3,,,,
+16PB,M,1-Sep-1957,A,201,89,89,12-Dec-2018,1,1,1,1,1,D,"P,C,K",1,,,lactose,lactose,,Weekly,Never,Never,Daily,Normal,3,,,,
+16AA,M,1-Sep-2004,C,202,NaN,NaN,12-Dec-2018,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,1,,eczema,nuts,,clindamycin,Weekly,Never,Never,Weekly,Normal,3,,,,
+5PA,F,1-Feb-1973,A,203,70,70,12-Dec-2018,1,1,1,1,1,C,N,1,,,,,,,,,,,,1,,,3
+5AA,F,1-Mar-2009,C,204,79,79,12-Dec-2018,1,0,0,0,0,C,N,1,,,,,,,,,,,,1,,,3
+5AB,M,1-Jul-2007,C,205,69,69,12-Dec-2018,1,1,1,1,1,C,N,1,,,,,,,,,,,,1,,,3
+1AA,M,1-Sep-2004,C,206,63,63,12-Dec-2018,1,2,1,2,2,O,"P,C,K",1,,,,,,,,,,,,1,,,2
+9PA,F,1-Sep-1966,A,207,77,77,12-Dec-2018,1,1,1,1,1,C,N,1,,,,,,,,,,,,1,,,2
+9AA,M,1-Mar-2005,C,208,23,23,12-Dec-2018,1,2,1,2,1,C,N,1,,,,,,,,,,,,1,tee tree oil,,3
+12PA,F,1-Aug-1980,A,209,84,84,12-Dec-2018,1,2,1,1,1,D,N,1,,acne,gluten,,,Daily,Daily,Daily,Daily,Normal,3,,,,
+12AA,M,1-Jan-2008,C,210,82,82,12-Dec-2018,1,1,1,1,1,C,N,1,,dry skin,,,,Daily,Never,Daily,Weekly,Normal,3,,,,
+5PB,M,1-Mar-1976,A,211,88,88,12-Dec-2018,1,1,1,1,1,D,"P,D,C,K",1,,pitirasis rosacea,,,,Daily,Never,Never,Weekly,Normal,3,,,,
+11PA,F,1-Nov-1970,A,213,68,68,13-Dec-2018,1,1,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+11AA,F,1-Oct-2004,C,214,66,66,13-Dec-2018,1,2,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+13AA,F,1-Nov-2005,C,215,85,85,13-Dec-2018,1,0,0,0,0,D,N,1,,,,,,,,,,,,1,,,3
+24AA,M,1-Jun-2004,C,216,64,64,13-Dec-2018,1,0,0,0,0,C,N,1,,,,,,,,,,,,1,,,3
+2AA,F,1-Aug-2004,C,217,75,75,13-Dec-2018,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+2AB,M,1-Aug-2007,C,218,53,53,13-Dec-2018,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,2
+2PA,F,1-May-1968,A,219,76,76,13-Dec-2018,1,0,1,0,0,VD,N,1,,,,,,,,,,,,1,,,3
+14AA,M,1-Aug-2011,A,220,71,71,13-Dec-2018,1,0,0,0,0,C,W,1,,,,,,,,,,,,1,,,3
+14PA,F,1-Mar-1977,A,221,74,74,13-Dec-2018,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+19PA,F,1-Feb-1977,A,222,80,80,13-Dec-2018,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+19AA,F,1-Mar-2006,C,223,253,253,13-Dec-2018,1,2,1,1,1,C,N,1,,,,,,,,,,,,1,,,2
+7AB,M,1-Dec-2007,C,224,100,100,13-Dec-2018,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+7PA,F,1-Jan-1974,A,225,38,38,13-Dec-2018,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,2
+1PB,M,1-Jun-1958,A,226,254,254,13-Dec-2018,1,0,1,0,1,VD,P,1,,,,,,,,,,,,1,,,3
+8PB,M,1-Sep-1977,A,227,250,250,13-Dec-2018,1,2,1,0,0,VD,P,1,,,,,,,,,,,,1,,,2
+8AA,M,1-Apr-2013,C,228,240,240,13-Dec-2018,1,0,0,0,0,C,N,1,,,,,,,,,,,,,,,
+8PA,F,1-Sep-1977,A,229,249,249,13-Dec-2018,1,1,1,2,1,D,N,1,,,,,,,,,,,,,,,
+8AB,M,1-Nov-2004,C,230,247,247,13-Dec-2018,1,2,1,2,1,O,"P,C",1,,,,,,,,,,,,1,,,3
+8AC,F,1-Jul-2007,C,231,72,72,13-Dec-2018,1,0,1,1,0,C,N,1,,,,,,,,,,,,1,,,3
+0CA,M,1-Jun-1995,A,239,55,239,4-Jun-2019,1,2,1,3,1,O,N,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+12AA,M,1-Jan-2008,C,240,78,78,4-Jun-2019,1,0,1,0,0,C,N,1,,,,,,,,,,,,1,,,3
+12PA,F,1-Aug-1980,A,241,86,86,4-Jun-2019,1,3,1,1,1,O,N,1,,"dry skin, acne",gluten,gluten,differin,Daily,Daily,Daily,Daily,Aging,3,,,,
+11AA,F,1-Oct-2004,C,242,214,214,4-Jun-2019,1,0,0,0,0,C,N,1,,,,,,,,,,,,,,,
+1PA,F,1-Dec-1964,A,243,236,236,4-Jun-2019,1,0,1,1,1,VD,N,1,,,,,,,,,,,,1,,,2
+15AB,F,1-May-2012,C,244,212,212,4-Jun-2019,1,0,sort,0,0,C,N,1,,,,,,Daily,Never,Never,Daily,Normal,2,,,,
+13AA,F,1-Nov-2005,C,245,235,235,4-Jun-2019,1,0,1,0,1,C,N,1,,,,,,,,,,,,1,,,2
+13PA,F,1-Sep-1967,A,246,238,238,4-Jun-2019,1,0,1,0,0,VD,N,1,,,celiac,gluten,,Daily,Never,Daily,Weekly,Dry Skin,3,,,,
+15PA,F,1-Sep-1971,A,247,229,229,4-Jun-2019,1,0,1,0,0,VD,N,1,,,,,,,,,,,,1,,knee replacement,2
+7PB,M,1-Jul-1971,A,248,213,213,4-Jun-2019,1,1,1,1,2,D,N,1,,,,vegetarian,,Daily,Never,Never,Monthly,Normal,3,,,,
+7PA,F,1-Jan-1974,A,249,234,234,4-Jun-2019,1,0,1,0,0,D,N,1,,,,,,,,,,,,1,,"psoriatic arthritis, methotrexate weekly",3
+8PB,M,1-Sep-1977,A,250,248,248,4-Jun-2019,1,0,3,0,0,VD,"P,C,K",1,,,,,,,,,,,,1,,,1
+15AA,F,1-Sep-2006,C,251,299,299,4-Jun-2019,1,1,1,2,1,C,N,1,,,,,,,,,,,,1,strep throat,,2
+7AB,M,1-Dec-2007,C,252,244,244,4-Jun-2019,1,0,0,0,0,C,N,1,,,,,,,,,,,,1,,,3
+8PA,F,1-Sep-1977,A,253,232,232,4-Jun-2019,1,0,1,0,0,D,N,1,,,,,,,,,,,,1,,,0
+8AC,F,1-Jul-2007,C,254,237,237,4-Jun-2019,1,1,1,2,2,O,N,1,,,,,,,,,,,,1,,,4
+8AA,M,1-Apr-2013,C,255,246,246,4-Jun-2019,1,0,0,0,0,C,N,1,,,,,,,,,,,,1,,,4
+1AA,M,1-Sep-2004,C,256,218,218,4-Jun-2019,1,3,1,2,1,O,N,1,,,,,,,,,,,,1,,,3
+8AB,M,1-Nov-2004,C,257,228,228,4-Jun-2019,1,2,2,2,2,C,P,1,,,,,,,,,,,,1,,,3
+7AA,F,1-Jun-2005,C,258,233,233,4-Jun-2019,1,2,1,2,1,O,N,1,,,,,,,,,,,,1,,,4
+11PA,F,1-Nov-1970,A,259,227,227,4-Jun-2019,1,1,1,1,1,C,N,1,,,,,,,,,,,,1,Different moisturizer,,3
+15AA,F,1-Sep-2006,C,301,318,318,24-Oct-2019,1,0,0,0,0,C,N,1,,,,Vegetarian,,Daily,Never,Never,Rarely,Acne,2,,,,
+7PA,F,1-Jan-1974,A,302,222,222,24-Oct-2019,1,0,0,0,0,D,N,1,,,,,,,,,,,,1,uric acid,humira,4
+7AB,M,1-Dec-2007,C,303,317,317,24-Oct-2019,1,0,2,0,0,N,N,1,,eczema,,,,Daily,Never,Never,Never,Normal,3,,,,
+7AA,F,1-Jun-2005,C,304,261,261,24-Oct-2019,1,3,1,2,2,O,N,1,,acne ,soy,,differin,Daily,Never,Never,Never,Acne,3,,,,
+4PB,M,1-Dec-1975,A,305,305,305,24-Oct-2019,1,0,1,0,0,D,P,1,,"acne,eczema",sensitivity to fragrances,,,,,,,,,1,,,3
+21PA,F,1-Dec-1973,A,306,320,320,24-Oct-2019,1,0,0,0,0,D,N,1,,,sensitive to sun poisoning,peanut,,,,,,,,1,,,4
+15PA,F,1-Sep-1971,A,307,256,256,24-Oct-2019,1,0,0,0,3,C,N,1,myasthenia,acne,dust,shellfish allergy,20 years ago,,,,,,,,,,
+15AB,F,1-May-2012,C,308,309,309,24-Oct-2019,1,0,0,0,0,C,N,1,,,,,,Daily,Never,Daily,Daily,Normal,3,,,,
+10PA,F,1-Jan-1974,A,309,319,319,24-Oct-2019,1,1,1,2,1,D,N,1,,,,,,,,,,,,,,,
+10PB,M,1-Jun-1966,A,310,314,314,24-Oct-2019,1,0,0,0,0,D,D,1,,eczema,dust,,,,,,,,,,,,
+10AA,F,1-Jul-2009,C,311,306,306,24-Oct-2019,1,0,0,0,0,C,N,1,,,sunscreen,,,Daily,Never,Never,Never,Normal,3,,,,
+1AA,M,1-Sep-2004,C,312,225,225,24-Oct-2019,1,2,1,2,2,C,N,1,,,,,,,,,,,,1,,,3
+1PA,F,1-Dec-1964,A,313,210,210,24-Oct-2019,1,0,1,0,1,VD,N,1,,,,,,,,,,,,1,,,2
+8PB,M,1-Sep-1977,A,314,311,311,24-Oct-2019,1,1,1,1,0,VD,P,1,,,,,,,,,,,,1,,,2
+8AB,M,1-Nov-2004,C,315,221,221,24-Oct-2019,1,2,1,2,2,C,P,1,,,,,,,,,,,,1,,,3
+2PA,F,1-May-1968,A,316,NaN,NaN,24-Oct-2019,1,0,0,0,0,VD,N,1,,,,,,,,,,,,1,,,3
+2AA,F,1-Aug-2004,C,317,216,216,24-Oct-2019,1,2,0,2,0,C,N,1,,,,,,,,,,,,1,,,3
+2AB,M,1-Aug-2007,C,318,303,303,24-Oct-2019,1,1,0,0,0,D,N,1,,,,,,,,,,,,1,,,3
+12PA,F,1-Aug-1980,A,601,NaN,NaN,2-Dec-2022,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+12AA,M,1-Jan-2008,C,602,NaN,NaN,2-Dec-2022,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+11PA,F,1-Nov-1970,A,609,NaN,NaN,2-Dec-2022,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,,,,
+2PA,F,1-May-1968,A,610,NaN,NaN,2-Dec-2022,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,0,,,,,,,,,,,,,,,
+1AA,M,1-Sep-2004,C,611,NaN,NaN,2-Dec-2022,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,0,,,,,,,,,,,,,,,
+1PA,F,1-Dec-1964,A,612,NaN,NaN,2-Dec-2022,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,0,,,,,,,,,,,,,,,
+0NA,N,0/0/0,N,999,999,998,,,,,,,,,,,,,,,,,,,,,,,,
+0NB,N,0/0/0,N,999,999,211,,,,,,,,,,,,,,,,,,,,,,,,
+0NC,N,0/0/0,N,999,999,999,,,,,,,,,,,,,,,,,,,,,,,,

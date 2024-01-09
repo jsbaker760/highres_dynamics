@@ -1,0 +1,86 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ans =
+
+  logical
+
+   1
+
+Starting parallel pool (parpool) using the 'local' profile ... [Warning: The system time zone setting, 'US/Eastern', does not specify a single
+time zone unambiguously. It will be treated as 'America/New_York'. See the <a
+href="matlab:doc('datetime.TimeZone')">datetime.TimeZone property</a> for
+details about specifying time zones.] 
+[> In verifyTimeZone (line 23)
+  In datetime (line 503)
+  In parallel.internal.cluster.DefaultProperties.getNewJobPropStruct (line 16)
+  In parallel.internal.cluster.CJSSupport/buildJob (line 151)
+  In parallel.cluster.CJSCluster/buildCommunicatingJob (line 452)
+  In parallel.Cluster/createCommunicatingJob (line 89)
+  In parallel.internal.pool.InteractiveClient>iCreateCommunicatingJob (line 714)
+  In parallel.internal.pool.InteractiveClient/start (line 325)
+  In parallel.Pool>iStartClient (line 567)
+  In parallel.Pool.hBuildPool (line 446)
+  In parallel.internal.pool.doParpool (line 15)
+  In parallel.Cluster/parpool (line 67)] 
+connected to 3 workers.
+loading DMinputs...
+iterating through reference genomes...
+Reference Genome: SepidermidisATCC12228...
+Excluding bad samples with fNoCall filter 1 of 3...
+Running parallel pool 1 of 3...
+Elapsed time is 57.824173 seconds.
+Elapsed time is 62.104965 seconds.
+Elapsed time is 64.623113 seconds.
+Elapsed time is 53.931086 seconds.
+Elapsed time is 58.233021 seconds.
+Elapsed time is 60.500684 seconds.
+Excluding bad samples with fNoCall filter 2 of 3...
+Running parallel pool 2 of 3...
+Elapsed time is 57.657283 seconds.
+Elapsed time is 62.710646 seconds.
+Elapsed time is 65.319228 seconds.
+Elapsed time is 55.619034 seconds.
+Elapsed time is 60.570702 seconds.
+Elapsed time is 62.966462 seconds.
+Excluding bad samples with fNoCall filter 3 of 3...
+Running parallel pool 3 of 3...
+Elapsed time is 57.874003 seconds.
+Elapsed time is 63.461502 seconds.
+Elapsed time is 65.920724 seconds.
+Elapsed time is 55.970984 seconds.
+Elapsed time is 61.100643 seconds.
+Elapsed time is 63.520203 seconds.
+Reference Genome: Pacnes_C1...
+Excluding bad samples with fNoCall filter 1 of 3...
+Running parallel pool 1 of 3...
+Elapsed time is 37.598858 seconds.
+Elapsed time is 45.308688 seconds.
+Elapsed time is 46.193211 seconds.
+Elapsed time is 37.374464 seconds.
+Elapsed time is 45.038302 seconds.
+Elapsed time is 45.750063 seconds.
+Excluding bad samples with fNoCall filter 2 of 3...
+Running parallel pool 2 of 3...
+Elapsed time is 39.032941 seconds.
+Elapsed time is 47.668084 seconds.
+Elapsed time is 48.524250 seconds.
+Elapsed time is 38.789614 seconds.
+Elapsed time is 47.428354 seconds.
+Elapsed time is 48.054640 seconds.
+Excluding bad samples with fNoCall filter 3 of 3...
+Running parallel pool 3 of 3...
+Elapsed time is 39.189789 seconds.
+Elapsed time is 48.112967 seconds.
+Elapsed time is 48.959132 seconds.
+Elapsed time is 38.921526 seconds.
+Elapsed time is 47.779404 seconds.
+Elapsed time is 48.614591 seconds.
