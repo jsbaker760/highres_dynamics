@@ -7,22 +7,22 @@ This repository contains all code necessary to reproduce the analyses described 
 
 This project is part of my doctoral research in the [Lieberman Lab](http://lieberman.science).
 
-
-
 # Overview
 This repository is grouped into two major parts:
 
 * [all_figures](#all_figures)
-  * Running all_figures.m with [pre-computed data](#data-availability) will re-generate all figures in the manuscript.
-  * Filters applied to metagenomics data
-  * filters applied to isolates
-  * distance matrix generation (/scripts/distance_matrix)
-  * clustering isolate genomes into lineages (run_clustering.m)
-  * identifying _de novo_ SNPs in each lineage and across homologues
-  * generating phylogenies
-  * clustering samples at the species level with UMAP
-  * and more!
-
+  * Running all_figures.m with [pre-computed data](#data-availability) will re-generate all figures in the manuscript:
+    * Filters applied to metagenomics data
+    * filters applied to isolates
+    * distance matrix generation (/scripts/distance_matrix)
+    * clustering isolate genomes into lineages (run_clustering.m)
+    * identifying _de novo_ SNPs in each lineage and across homologues
+    * generating phylogenies
+    * clustering samples at the species level with UMAP
+    * and more!
+  * /PHLAME_filtered contains the within-species abundance information for metagenomics samples used in the manuscript
+  * /PHLAME contains the (old) within-species abundance information used to filter out metagenomics samples
+  * /metadata contains basic information on each sample
   
 * [snakemake_raw_data](#snakemake_raw_data)
   * Running the Snakemakes in these folders with [raw data](#data-availability) will generate [pre-computed data](#data-availability) used in all_figures.
