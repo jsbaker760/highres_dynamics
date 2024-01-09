@@ -1,6 +1,6 @@
 Highly-resolved within-species dynamics in the human facial skin microbiome
 =======================
-The manuscript corrosponding to this repo has not been peer reviewed, and this repository is likely to be ammended before publication
+The manuscript corrosponding to this repo has not been peer reviewed, and this repository is likely to undergo additional ammendments before publication
 =======================
 
 This repository contains all code necessary to reproduce the analyses described in:
