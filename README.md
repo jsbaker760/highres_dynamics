@@ -57,6 +57,6 @@ See below for information on [Data availability](#data-availability)
   * Annotates each co-assembly with Bakta
 
 # data-availability
-Sequencing data for running Snakemakes is available on the NCBI Sequence Read Archive under Bioproject #SUB14054091.
+raw sequencing data for running Snakemakes is currently being made available on the NCBI Sequence Read Archive under Bioproject #SUB14054091.
 
 Pre-computed MATLAB data structures necessary and sufficient to run all code in all_figures is available [here](https://www.dropbox.com/scl/fo/xfff91f1w9hdgt9hwi8gd/h?rlkey=jhirrwx3xwpdu3g7k7trv4w02&dl=0).
