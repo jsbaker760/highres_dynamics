@@ -17,7 +17,7 @@ This repository is grouped into two major parts:
 * [snakemakes](#snakemake_raw_data)
   * These snakemakes were run in Slurm-based HPC environments to generate consolidated data structures from raw reads including genome assemblies and SNP tables, which were then analyzed locally (all_figures.m)
   
-# data-availability
+# data availability
 raw reads are available on the NCBI Sequence Read Archive under [Bioproject #PRJNA1052084](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1052084).
 
 Pre-computed data structures small enough to be uploaded to GitHub are in local_analysis/data, including:
