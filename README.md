@@ -1,10 +1,10 @@
 Highly-resolved within-species dynamics in the human facial skin microbiome
 =======================
-The manuscript corrosponding to this repository has not been peer reviewed, and this repository is likely to undergo additional ammendments before publication.
 
 This repository contains all code necessary to reproduce the analyses described in:
 
 > __Jacob S. Baker, Evan Qu, Christopher P. Mancuso, A. Delphine Tripp, Arolyn Conwill, Tami D. Lieberman.__ Previously hidden intraspecies dynamics underlie the apparent stability of two important skin microbiome species
+[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.10.575018v2)
 
 This project is part of my doctoral research in the [Lieberman Lab](http://lieberman.science).
 
@@ -12,13 +12,13 @@ This project is part of my doctoral research in the [Lieberman Lab](http://liebe
 This repository is grouped into two major parts:
 
 * [local_analysis](#all_figures)
-  * local_analysis/all_figures.m calls all functions in local_analysis/scripts necessary to reproduce each figure in the manuscript provided that pre-computed data structures are included.
+  * local_analysis/all_figures.m calls all functions in local_analysis/scripts necessary to reproduce the figures in the manuscript, provided that pre-computed data structures are included.
   
 * [snakemakes](#snakemake_raw_data)
   * These snakemakes were run in Slurm-based HPC environments to generate consolidated data structures from raw reads including genome assemblies and SNP tables, which were then analyzed locally (all_figures.m)
   
 # data-availability
-raw reads are available on the NCBI Sequence Read Archive under Bioproject #PRJNA1052084.
+raw reads are available on the NCBI Sequence Read Archive under [Bioproject #PRJNA1052084](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1052084).
 
 Pre-computed data structures small enough to be uploaded to GitHub are in local_analysis/data, including:
   * lineage coassemblies, annotations, and SNP tables (data/lineage_coassemblies)
@@ -29,7 +29,7 @@ Pre-computed data structures small enough to be uploaded to GitHub are in local_
 The beta version of PHLAME used in this paper can be found [here](https://github.com/quevan/phlame_beta) (STAR Methods: Metagenomic lineage and phylotype abundances)
 The current verion of PHLAME can be found [here](https://github.com/quevan/phlame) and is described in [this preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.636498v1)
 
-A full clone of data/ (36GB) is necessary to run all the code in all_figures.m and is available on [DropBox](https://www.dropbox.com/scl/fo/2lartzjhtgubxvgamjcd7/AGw1K-xHXGwe99iwP_vWEZs?rlkey=dlor01adbbii9sgvctqu7w6uz&dl=0).
+A full clone of data/ (36GB) is available on [DropBox](https://www.dropbox.com/scl/fo/2lartzjhtgubxvgamjcd7/AGw1K-xHXGwe99iwP_vWEZs?rlkey=dlor01adbbii9sgvctqu7w6uz&dl=0).
 
 # all_figures
 
