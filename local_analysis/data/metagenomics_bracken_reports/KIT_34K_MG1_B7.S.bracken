@@ -1,0 +1,23 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Elizabethkingia bruuniana	1756149	S	24	9	33	0.00070
+Pseudoalteromonas prydzensis	182141	S	13	50	63	0.00134
+Enterobacter bugandensis	881260	S	15	75	90	0.00191
+Acidocella sp. MX-AZ03	2697363	S	23	7	30	0.00064
+Malassezia restricta	76775	S	249	2	251	0.00533
+Tinduovirus TIN2	1982570	S	10	1	11	0.00023
+Shewanella algae	38313	S	22	9	31	0.00066
+Ralstonia pickettii	329	S	14	7	21	0.00045
+Oryzomicrobium terrae	1735038	S	17	6	23	0.00049
+Aeromonas hydrophila	644	S	20	25	45	0.00096
+Homo sapiens	9606	S	41750	224	41974	0.89079
+Idiomarina loihiensis	135577	S	10	0	10	0.00021
+Serratia marcescens	615	S	78	142	220	0.00467
+Halomonas sp. BDJS001	2992143	S	25	22	47	0.00100
+Vibrio metschnikovii	28172	S	88	9	97	0.00206
+Staphylococcus epidermidis	1282	S	23	2	25	0.00053
+Cutibacterium acnes	1747	S	2061	72	2133	0.04527
+Aeromonas salmonicida	645	S	713	147	860	0.01825
+Staphylococcus saccharolyticus	33028	S	879	30	909	0.01929
+Aeromonas caviae	648	S	15	67	82	0.00174
+Staphylococcus capitis	29388	S	111	15	126	0.00267
+Acinetobacter sp. Z1	2953738	S	15	17	32	0.00068

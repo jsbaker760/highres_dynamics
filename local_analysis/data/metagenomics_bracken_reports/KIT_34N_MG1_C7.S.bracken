@@ -1,0 +1,18 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Dietzia timorensis	499555	S	14	1	15	0.00010
+Cutibacterium granulosum	33011	S	346	10	356	0.00232
+Malassezia restricta	76775	S	1305	2	1307	0.00853
+Homo sapiens	9606	S	119756	606	120362	0.78545
+Elizabethkingia bruuniana	1756149	S	11	2	13	0.00008
+Ralstonia pickettii	329	S	43	27	70	0.00046
+Serratia marcescens	615	S	34	82	116	0.00076
+Staphylococcus epidermidis	1282	S	174	25	199	0.00130
+Staphylococcus saccharolyticus	33028	S	446	20	466	0.00304
+Aeromonas caviae	648	S	10	41	51	0.00033
+Jeotgalicoccus sp. ATCC 8456	946435	S	25	1	26	0.00017
+Ralstonia insidiosa	190721	S	40	25	65	0.00042
+Aeromonas salmonicida	645	S	365	68	433	0.00283
+Cutibacterium acnes	1747	S	28861	806	29667	0.19360
+Acidocella sp. MX-AZ03	2697363	S	14	12	26	0.00017
+Kocuria palustris	71999	S	29	5	34	0.00022
+Vibrio metschnikovii	28172	S	24	2	26	0.00017

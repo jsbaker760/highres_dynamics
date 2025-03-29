@@ -1,0 +1,118 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus sanguinis	1305	S	17	2	19	0.00001
+Streptococcus gordonii	1302	S	37	2	39	0.00002
+Streptococcus oralis	1303	S	20	5	25	0.00002
+Finegoldia magna	1260	S	275	229	504	0.00032
+Anaerococcus mediterraneensis	1870984	S	36	53	89	0.00006
+Pseudoalteromonas prydzensis	182141	S	12	31	43	0.00003
+Veillonella parvula	29466	S	18	1	19	0.00001
+Anaerococcus sp. Marseille-Q7828	3036300	S	177	134	311	0.00020
+Malassezia restricta	76775	S	6290	38	6328	0.00398
+Corynebacterium macginleyi	38290	S	82	9	91	0.00006
+Pahexavirus PHL071N05	1982280	S	47	294	341	0.00021
+Corynebacterium matruchotii	43768	S	17	0	17	0.00001
+Propionibacterium phage PA1-14	1747271	S	56	231	287	0.00018
+Anaerococcus prevotii	33034	S	90	118	208	0.00013
+Burkholderia dolosa	152500	S	12	3	15	0.00001
+Streptococcus pyogenes	1314	S	30	41	71	0.00004
+Streptococcus pneumoniae	1313	S	19	445	464	0.00029
+Corynebacterium accolens	38284	S	18	37	55	0.00003
+Pahexavirus PHL116M00	1982288	S	56	113	169	0.00011
+Clostridioides difficile	1496	S	10	19	29	0.00002
+Pahexavirus PHL112N00	1982285	S	24	115	139	0.00009
+Pahexavirus PHL111M01	1982284	S	126	708	834	0.00052
+Pahexavirus PHL114L00	1982287	S	58	73	131	0.00008
+Pahexavirus PHL113M01	1982286	S	72	476	548	0.00034
+Pahexavirus PHL082M03	1982281	S	278	2358	2636	0.00166
+Pahexavirus attacne	1982254	S	52	168	220	0.00014
+Pahexavirus PHL095N00	1982283	S	142	953	1095	0.00069
+Pahexavirus PHL092M00	1982282	S	31	105	136	0.00009
+Acinetobacter sp. Z1	2953738	S	25	7	32	0.00002
+Elizabethkingia bruuniana	1756149	S	96	31	127	0.00008
+Pahexavirus PHL179M00	1982298	S	105	541	646	0.00041
+Pahexavirus PHL141N00	1982292	S	115	778	893	0.00056
+Enterobacter bugandensis	881260	S	13	91	104	0.00007
+Pahexavirus PHL117M01	1982290	S	127	0	127	0.00008
+Pahexavirus PHL132N00	1982291	S	50	311	361	0.00023
+Propionibacterium phage PAC1	1690805	S	23	138	161	0.00010
+Pahexavirus PHL152M00	1982295	S	92	145	237	0.00015
+Brevibacterium aurantiacum	273384	S	88	104	192	0.00012
+Cutibacterium avidum	33010	S	178	10	188	0.00012
+Cutibacterium granulosum	33011	S	20966	912	21878	0.01376
+Halomonas sp. KO116	1504981	S	10	23	33	0.00002
+Oryzomicrobium terrae	1735038	S	24	5	29	0.00002
+Acinetobacter johnsonii	40214	S	23	43	66	0.00004
+Glutamicibacter arilaitensis	256701	S	41	6	47	0.00003
+Pahexavirus P1001	1982263	S	67	545	612	0.00038
+Pseudoalteromonas sp. KG3	2951137	S	16	42	58	0.00004
+Pahexavirus P101A	1982267	S	69	591	660	0.00042
+Pahexavirus P100D	1982266	S	80	413	493	0.00031
+Pahexavirus P100A	1982265	S	29	23	52	0.00003
+Pahexavirus P11	1982264	S	193	1136	1329	0.00084
+Aeromonas salmonicida	645	S	1046	270	1316	0.00083
+Aeromonas hydrophila	644	S	14	23	37	0.00002
+Pahexavirus P105	1982261	S	101	607	708	0.00045
+Pahexavirus P91	1982260	S	15	94	109	0.00007
+Aeromonas caviae	648	S	27	150	177	0.00011
+Staphylococcus capitis	29388	S	352	48	400	0.00025
+Pahexavirus PA6	1982269	S	52	238	290	0.00018
+Pahexavirus P104A	1982268	S	58	312	370	0.00023
+Xanthomonas campestris	339	S	124	25	149	0.00009
+Vibrio furnissii	29494	S	20	6	26	0.00002
+Peptoniphilus sp. SAHP1	2948573	S	11	11	22	0.00001
+Gammapapillomavirus 11	1513256	S	207	0	207	0.00013
+Ralstonia insidiosa	190721	S	23	8	31	0.00002
+Pandoraea apista	93218	S	12	2	14	0.00001
+Tinduovirus TIN2	1982570	S	16	1	17	0.00001
+Pahexavirus PHL025M00	1982274	S	102	467	569	0.00036
+Pahexavirus PHL037M02	1982275	S	12	153	165	0.00010
+Pahexavirus PHL041M10	1982276	S	75	294	369	0.00023
+Pahexavirus PHL060L00	1982277	S	108	682	790	0.00050
+Pahexavirus pacnes201215	1982270	S	45	44	89	0.00006
+Shewanella algae	38313	S	12	9	21	0.00001
+Pahexavirus PAS50	1982272	S	96	500	596	0.00037
+Pahexavirus PHL009M11	1982273	S	223	1361	1584	0.00100
+Pahexavirus PHL067M01	1982278	S	48	0	48	0.00003
+Pahexavirus PHL070N00	1982279	S	82	108	190	0.00012
+Pahexavirus PAD20	1982271	S	47	227	274	0.00017
+Idiomarina loihiensis	135577	S	23	3	26	0.00002
+Aerococcus christensenii	87541	S	35	6	41	0.00003
+Klebsiella phage N1M2	2664939	S	27	0	27	0.00002
+Peptoniphilus harei	54005	S	12	10	22	0.00001
+Staphylococcus pasteuri	45972	S	10	0	10	0.00001
+Vibrio metschnikovii	28172	S	132	8	140	0.00009
+Propionibacterium phage QueenBey	1654782	S	54	99	153	0.00010
+Propionibacterium phage Enoki	1654780	S	42	178	220	0.00014
+Propionibacterium phage Moyashi	1654781	S	283	1929	2212	0.00139
+Cutibacterium acnes	1747	S	80964	2703	83667	0.05263
+Haemophilus parainfluenzae	729	S	15	1	16	0.00001
+Moraxella osloensis	34062	S	47	17	64	0.00004
+Staphylococcus auricularis	29379	S	11	0	11	0.00001
+Acidocella sp. MX-AZ03	2697363	S	23	14	37	0.00002
+Corynebacterium tuberculostearicum	38304	S	20	4	24	0.00002
+Lawsonella clevelandensis	1528099	S	109	43	152	0.00010
+Pahexavirus mrAK	1982258	S	70	531	601	0.00038
+Pahexavirus ouroboros	1982259	S	41	70	111	0.00007
+Pahexavirus kubed	1982256	S	45	99	144	0.00009
+Pahexavirus lauchelly	1982257	S	162	224	386	0.00024
+Staphylococcus hominis	1290	S	23	2	25	0.00002
+Ralstonia pickettii	329	S	19	7	26	0.00002
+Pahexavirus P144	1982262	S	12	41	53	0.00003
+Cutibacterium modestum	2559073	S	38	2	40	0.00003
+Homo sapiens	9606	S	1428736	14746	1443482	0.90804
+Cupriavidus metallidurans	119219	S	36	13	49	0.00003
+Dermacoccus nishinomiyaensis	1274	S	58	4	62	0.00004
+Serratia marcescens	615	S	120	261	381	0.00024
+Actinomyces massiliensis	461393	S	11	16	27	0.00002
+Halomonas profundi	2852117	S	136	32	168	0.00011
+Pahexavirus wizzo	1982308	S	145	590	735	0.00046
+Staphylococcus epidermidis	1282	S	1651	208	1859	0.00117
+Pahexavirus procrass1	1982304	S	11	46	57	0.00004
+Pahexavirus SKKY	1982305	S	80	488	568	0.00036
+Pahexavirus solid	1982306	S	38	160	198	0.00012
+Pahexavirus stormborn	1982307	S	117	487	604	0.00038
+Pahexavirus PHL199M00	1982300	S	50	46	96	0.00006
+Pahexavirus PHL301M00	1982301	S	203	547	750	0.00047
+Pahexavirus PHL308M00	1982302	S	101	0	101	0.00006
+Pahexavirus pirate	1982303	S	15	453	468	0.00029
+Halomonas sp. BDJS001	2992143	S	24	21	45	0.00003

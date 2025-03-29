@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Corynebacterium	1716	G	17	0	17	0.00767
+Staphylococcus	1279	G	80	4	84	0.03792
+Homo	9605	G	1965	20	1985	0.89616
+Cutibacterium	1912216	G	105	1	106	0.04786
+Dermacoccus	57495	G	20	0	20	0.00903

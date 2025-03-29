@@ -1,0 +1,34 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus sanguinis	1305	S	20	39	59	0.00052
+Lautropia mirabilis	47671	S	10	6	16	0.00014
+Aeromicrobium sp. Leaf245	1736306	S	10	5	15	0.00013
+Xanthomonas campestris	339	S	32	48	80	0.00070
+Streptococcus gordonii	1302	S	24	52	76	0.00067
+Streptococcus oralis	1303	S	14	119	133	0.00117
+Corynebacterium kroppenstedtii	161879	S	10	2	12	0.00011
+Rothia mucilaginosa	43675	S	35	17	52	0.00046
+Actinomyces oris	544580	S	20	44	64	0.00056
+Cutibacterium granulosum	33011	S	500	347	847	0.00744
+Malassezia restricta	76775	S	142	0	142	0.00125
+Rothia aeria	172042	S	10	9	19	0.00017
+Microbacterium sp. PM5	2014534	S	17	19	36	0.00032
+Bifidobacterium pseudolongum	1694	S	27	6	33	0.00029
+Corynebacterium matruchotii	43768	S	14	1	15	0.00013
+Haemophilus parainfluenzae	729	S	18	44	62	0.00054
+Actinomyces naeslundii	1655	S	17	6	23	0.00020
+Xanthobacter sp. YC-JY1	2419844	S	14	21	35	0.00031
+Streptococcus pneumoniae	1313	S	13	208	221	0.00194
+Bartonella krasnovii	2267275	S	30	16	46	0.00040
+Homo sapiens	9606	S	84501	3067	87568	0.76873
+Acidovorax temperans	80878	S	18	171	189	0.00166
+Streptomyces sp. ICC4	2099584	S	14	99	113	0.00099
+Streptococcus mitis	28037	S	27	142	169	0.00148
+Rothia dentocariosa	2047	S	11	7	18	0.00016
+Cutibacterium acnes	1747	S	3117	1211	4328	0.03799
+Staphylococcus aureus	1280	S	15	2242	2257	0.01981
+Staphylococcus epidermidis	1282	S	631	15242	15873	0.13934
+Bradyrhizobium sp. Ash2021	2954771	S	11	14	25	0.00022
+Corynebacterium tuberculostearicum	38304	S	27	49	76	0.00067
+Staphylococcus saccharolyticus	33028	S	21	35	56	0.00049
+Staphylococcus capitis	29388	S	40	1185	1225	0.01075
+Schaalia odontolytica	1660	S	10	5	15	0.00013

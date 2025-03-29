@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Cutibacterium	1912216	G	4484	71	4555	0.53651
+Micrococcus	1269	G	14	5	19	0.00224
+Corynebacterium	1716	G	20	0	20	0.00236
+Staphylococcus	1279	G	85	5	90	0.01060
+Streptococcus	1301	G	12	0	12	0.00141
+Moraxella	475	G	16	2	18	0.00212
+Neisseria	482	G	10	3	13	0.00153
+Homo	9605	G	3570	46	3616	0.42591
+Malassezia	55193	G	143	0	143	0.01684

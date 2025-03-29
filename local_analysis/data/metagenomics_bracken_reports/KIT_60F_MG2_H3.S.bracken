@@ -1,0 +1,54 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Xanthomonas campestris	339	S	851	132	983	0.00788
+Vibrio furnissii	29494	S	52	17	69	0.00055
+Elizabethkingia bruuniana	1756149	S	161	46	207	0.00166
+Moraxella osloensis	34062	S	114	46	160	0.00128
+Vibrio plantisponsor	664643	S	14	1	15	0.00012
+Klebsiella phage N1M2	2664939	S	53	0	53	0.00042
+Pseudoalteromonas prydzensis	182141	S	42	73	115	0.00092
+Elizabethkingia meningoseptica	238	S	12	0	12	0.00010
+Pseudoalteromonas ostreae	2774154	S	18	6	24	0.00019
+Ralstonia insidiosa	190721	S	35	17	52	0.00042
+Enterobacter bugandensis	881260	S	56	183	239	0.00191
+Acidocella sp. MX-AZ03	2697363	S	102	23	125	0.00100
+Pandoraea apista	93218	S	14	2	16	0.00013
+Brevibacterium aurantiacum	273384	S	19	16	35	0.00028
+Veillonella parvula	29466	S	22	0	22	0.00018
+Cutibacterium granulosum	33011	S	15	0	15	0.00012
+Prevotella melaninogenica	28132	S	10	1	11	0.00009
+Corynebacterium macginleyi	38290	S	24	9	33	0.00026
+Lawsonella clevelandensis	1528099	S	18	3	21	0.00017
+Tinduovirus TIN2	1982570	S	26	0	26	0.00021
+Aeromonas allosaccharophila	656	S	10	12	22	0.00018
+Acinetobacter johnsonii	40214	S	22	56	78	0.00062
+Aeromonas veronii	654	S	20	31	51	0.00041
+Shewanella algae	38313	S	36	32	68	0.00054
+Cedecea neteri	158822	S	10	1	11	0.00009
+Halomonas profundi	2852117	S	20	5	25	0.00020
+Oryzomicrobium terrae	1735038	S	47	8	55	0.00044
+Cutibacterium modestum	2559073	S	33	2	35	0.00028
+Uruburuella suis	252130	S	15	0	15	0.00012
+Homo sapiens	9606	S	42284	566	42850	0.34331
+Micrococcus luteus	1270	S	18	80	98	0.00079
+Malassezia restricta	76775	S	553	6	559	0.00448
+Idiomarina loihiensis	135577	S	31	4	35	0.00028
+Cupriavidus metallidurans	119219	S	13	8	21	0.00017
+Dermacoccus nishinomiyaensis	1274	S	86	11	97	0.00078
+Ralstonia pickettii	329	S	35	16	51	0.00041
+Salmonella enterica	28901	S	16	103	119	0.00095
+Pseudoalteromonas rhizosphaerae	2518973	S	17	6	23	0.00018
+Methylobacterium sp. 391_Methyba4	3038924	S	11	84	95	0.00076
+Serratia marcescens	615	S	307	675	982	0.00787
+Stenotrophomonas maltophilia	40324	S	34	47	81	0.00065
+Halomonas sp. BDJS001	2992143	S	65	55	120	0.00096
+Cutibacterium acnes	1747	S	69509	2623	72132	0.57792
+Vibrio metschnikovii	28172	S	282	19	301	0.00241
+Staphylococcus epidermidis	1282	S	137	11	148	0.00119
+Pseudoalteromonas sp. KG3	2951137	S	34	62	96	0.00077
+Corynebacterium tuberculostearicum	38304	S	11	7	18	0.00014
+Aeromonas salmonicida	645	S	2725	648	3373	0.02702
+Aeromonas hydrophila	644	S	62	144	206	0.00165
+Aeromonas caviae	648	S	47	257	304	0.00244
+Staphylococcus capitis	29388	S	309	28	337	0.00270
+Acinetobacter sp. Z1	2953738	S	55	28	83	0.00066
+Mesorhizobium terrae	2725666	S	28	38	66	0.00053

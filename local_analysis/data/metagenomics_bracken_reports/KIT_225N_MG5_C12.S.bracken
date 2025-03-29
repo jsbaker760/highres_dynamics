@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Staphylococcus capitis	29388	S	21	3	24	0.00284
+Cutibacterium granulosum	33011	S	63	4	67	0.00794
+Staphylococcus epidermidis	1282	S	57	7	64	0.00758
+Malassezia restricta	76775	S	142	1	143	0.01695
+Homo sapiens	9606	S	3570	46	3616	0.42849
+Moraxella osloensis	34062	S	10	10	20	0.00237
+Corynebacterium accolens	38284	S	12	2	14	0.00166
+Cutibacterium acnes	1747	S	4315	172	4487	0.53170

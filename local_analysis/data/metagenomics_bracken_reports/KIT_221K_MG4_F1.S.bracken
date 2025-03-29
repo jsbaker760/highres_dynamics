@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus sanguinis	1305	S	38	31	69	0.00130
+Staphylococcus capitis	29388	S	201	41	242	0.00455
+Cutibacterium granulosum	33011	S	42	3	45	0.00085
+Streptococcus gordonii	1302	S	12	4	16	0.00030
+Malassezia restricta	76775	S	146	0	146	0.00274
+Streptococcus oralis	1303	S	24	41	65	0.00122
+Homo sapiens	9606	S	50263	504	50767	0.95403
+Corynebacterium accolens	38284	S	20	16	36	0.00068
+Corynebacterium kefirresidentii	1979527	S	18	5	23	0.00043
+Staphylococcus epidermidis	1282	S	154	30	184	0.00346
+Corynebacterium matruchotii	43768	S	11	1	12	0.00023
+Cutibacterium acnes	1747	S	1492	75	1567	0.02945
+Actinomyces naeslundii	1655	S	10	26	36	0.00068

@@ -1,0 +1,36 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella phage N1M2	2664939	S	22	0	22	0.00076
+Vibrio furnissii	29494	S	10	1	11	0.00038
+Elizabethkingia bruuniana	1756149	S	82	14	96	0.00331
+Halomonas sp. BDJS001	2992143	S	27	26	53	0.00183
+Corynebacterium kefirresidentii	1979527	S	20	6	26	0.00090
+Pseudoalteromonas prydzensis	182141	S	15	34	49	0.00169
+Chryseobacterium indologenes	253	S	33	5	38	0.00131
+Ralstonia insidiosa	190721	S	11	13	24	0.00083
+Enterobacter bugandensis	881260	S	26	80	106	0.00366
+Acidocella sp. MX-AZ03	2697363	S	27	20	47	0.00162
+Streptococcus mitis	28037	S	11	33	44	0.00152
+Malassezia restricta	76775	S	63	0	63	0.00218
+Aeromonas veronii	654	S	13	16	29	0.00100
+Corynebacterium propinquum	43769	S	22	4	26	0.00090
+Shewanella algae	38313	S	22	9	31	0.00107
+Dolosigranulum pigrum	29394	S	10	0	10	0.00035
+Idiomarina loihiensis	135577	S	15	1	16	0.00055
+Oryzomicrobium terrae	1735038	S	17	12	29	0.00100
+Aeromonas hydrophila	644	S	25	32	57	0.00197
+Homo sapiens	9606	S	23386	155	23541	0.81285
+Kocuria varians	1272	S	10	8	18	0.00062
+Serratia marcescens	615	S	125	211	336	0.01160
+Corynebacterium accolens	38284	S	16	18	34	0.00117
+Microbacterium oxydans	82380	S	12	7	19	0.00066
+Pseudoalteromonas rhizosphaerae	2518973	S	11	5	16	0.00055
+Cutibacterium acnes	1747	S	2263	98	2361	0.08152
+Vibrio metschnikovii	28172	S	95	3	98	0.00338
+Pseudoalteromonas sp. KG3	2951137	S	16	36	52	0.00180
+Staphylococcus epidermidis	1282	S	124	14	138	0.00477
+Corynebacterium tuberculostearicum	38304	S	15	2	17	0.00059
+Aeromonas salmonicida	645	S	809	169	978	0.03377
+Staphylococcus saccharolyticus	33028	S	259	11	270	0.00932
+Aeromonas caviae	648	S	23	99	122	0.00421
+Staphylococcus capitis	29388	S	61	8	69	0.00238
+Acinetobacter sp. Z1	2953738	S	33	66	99	0.00342

@@ -1,0 +1,17 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Cellvibrio	10	G	18	0	18	0.00053
+Micrococcus	1269	G	16	7	23	0.00068
+Acinetobacter	469	G	11	1	12	0.00035
+Streptococcus	1301	G	48	3	51	0.00150
+Staphylococcus	1279	G	20	2	22	0.00065
+Serratia	613	G	26	5	31	0.00091
+Yersinia	629	G	16	1	17	0.00050
+Corynebacterium	1716	G	17	3	20	0.00059
+Haemophilus	724	G	13	1	14	0.00041
+Aeromonas	642	G	57	7	64	0.00188
+Ralstonia	48736	G	61	14	75	0.00220
+Carnobacterium	2747	G	54	3	57	0.00167
+Moraxella	475	G	56	1	57	0.00167
+Homo	9605	G	33187	298	33485	0.98274
+Cutibacterium	1912216	G	87	6	93	0.00273
+Dolosigranulum	29393	G	27	0	27	0.00079

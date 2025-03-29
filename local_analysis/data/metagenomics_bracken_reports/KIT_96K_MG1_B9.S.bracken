@@ -1,0 +1,24 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Vibrio furnissii	29494	S	15	2	17	0.00703
+Elizabethkingia bruuniana	1756149	S	73	17	90	0.03724
+Vibrio plantisponsor	664643	S	12	0	12	0.00496
+Pseudoalteromonas prydzensis	182141	S	20	28	48	0.01986
+Enterobacter bugandensis	881260	S	21	90	111	0.04592
+Acidocella sp. MX-AZ03	2697363	S	19	11	30	0.01241
+Tinduovirus TIN2	1982570	S	15	2	17	0.00703
+Shewanella algae	38313	S	20	8	28	0.01158
+Ralstonia pickettii	329	S	11	12	23	0.00952
+Oryzomicrobium terrae	1735038	S	13	11	24	0.00993
+Homo sapiens	9606	S	190	2	192	0.07944
+Idiomarina loihiensis	135577	S	20	1	21	0.00869
+Serratia marcescens	615	S	112	210	322	0.13322
+Pseudoalteromonas rhizosphaerae	2518973	S	15	4	19	0.00786
+Klebsiella phage N1M2	2664939	S	27	0	27	0.01117
+Cutibacterium acnes	1747	S	50	6	56	0.02317
+Vibrio metschnikovii	28172	S	109	4	113	0.04675
+Pseudoalteromonas sp. KG3	2951137	S	21	32	53	0.02193
+Aeromonas salmonicida	645	S	782	179	961	0.39760
+Aeromonas hydrophila	644	S	22	29	51	0.02110
+Aeromonas caviae	648	S	18	84	102	0.04220
+Halomonas sp. BDJS001	2992143	S	15	26	41	0.01696
+Acinetobacter sp. Z1	2953738	S	24	27	51	0.02110

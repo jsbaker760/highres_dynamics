@@ -1,0 +1,85 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus sanguinis	1305	S	43	29	72	0.00096
+Lautropia mirabilis	47671	S	67	8	75	0.00100
+Neisseria elongata	495	S	11	4	15	0.00020
+Streptococcus oralis	1303	S	82	127	209	0.00279
+Finegoldia magna	1260	S	10	1	11	0.00015
+Corynebacterium kroppenstedtii	161879	S	50	1	51	0.00068
+Halomonas sp. BDJS001	2992143	S	48	38	86	0.00115
+Veillonella rogosae	423477	S	10	2	12	0.00016
+Corynebacterium kefirresidentii	1979527	S	12	3	15	0.00020
+Pseudoalteromonas prydzensis	182141	S	24	27	51	0.00068
+Pseudoalteromonas rhizosphaerae	2518973	S	13	3	16	0.00021
+Neisseria subflava	28449	S	17	35	52	0.00069
+Xanthomonas fragariae	48664	S	17	5	22	0.00029
+Ralstonia insidiosa	190721	S	101	47	148	0.00197
+Enterobacter bugandensis	881260	S	43	538	581	0.00774
+Tinduovirus TIN2	1982570	S	15	1	16	0.00021
+Neisseria sicca	490	S	19	33	52	0.00069
+Acidocella sp. MX-AZ03	2697363	S	31	17	48	0.00064
+Pandoraea apista	93218	S	21	4	25	0.00033
+Rothia mucilaginosa	43675	S	53	3	56	0.00075
+Actinomyces oris	544580	S	41	54	95	0.00127
+Cutibacterium granulosum	33011	S	119	7	126	0.00168
+Malassezia restricta	76775	S	123	3	126	0.00168
+Neisseria cinerea	483	S	12	13	25	0.00033
+Rothia aeria	172042	S	79	8	87	0.00116
+Vibrio furnissii	29494	S	13	5	18	0.00024
+Granulicatella adiacens	46124	S	17	0	17	0.00023
+Abiotrophia defectiva	46125	S	49	6	55	0.00073
+Pseudoalteromonas sp. KG3	2951137	S	26	31	57	0.00076
+Corynebacterium bovis	36808	S	87	5	92	0.00123
+Acinetobacter sp. Z1	2953738	S	17	53	70	0.00093
+Aeromonas veronii	654	S	10	14	24	0.00032
+Actinomyces israelii	1659	S	15	0	15	0.00020
+Staphylococcus epidermidis	1282	S	462	98	560	0.00746
+Shewanella algae	38313	S	28	19	47	0.00063
+Neisseria mucosa	488	S	28	91	119	0.00159
+Haemophilus parainfluenzae	729	S	140	16	156	0.00208
+Dolosigranulum pigrum	29394	S	29	0	29	0.00039
+Haemophilus parahaemolyticus	735	S	11	0	11	0.00015
+Babesia bigemina	5866	S	19	0	19	0.00025
+Oryzomicrobium terrae	1735038	S	31	6	37	0.00049
+Actinomyces naeslundii	1655	S	13	2	15	0.00020
+Yersinia enterocolitica	630	S	31	6	37	0.00049
+Streptococcus pneumoniae	1313	S	26	64	90	0.00120
+Clostridium botulinum	1491	S	21	1	22	0.00029
+Homo sapiens	9606	S	61262	716	61978	0.82612
+Micrococcus luteus	1270	S	12	63	75	0.00100
+Streptococcus thermophilus	1308	S	13	5	18	0.00024
+Idiomarina loihiensis	135577	S	25	4	29	0.00039
+Cupriavidus metallidurans	119219	S	26	11	37	0.00049
+Ralstonia pickettii	329	S	78	40	118	0.00157
+Fusobacterium animalis	76859	S	10	42	52	0.00069
+Serratia marcescens	615	S	234	522	756	0.01008
+Corynebacterium accolens	38284	S	25	28	53	0.00071
+Gemella haemolysans	1379	S	13	5	18	0.00024
+Gammapapillomavirus 3	333929	S	10	0	10	0.00013
+Aeromonas caviae	648	S	38	190	228	0.00304
+Klebsiella phage N1M2	2664939	S	24	0	24	0.00032
+Veillonella parvula	29466	S	11	0	11	0.00015
+Actinomyces massiliensis	461393	S	14	1	15	0.00020
+Stenotrophomonas maltophilia	40324	S	12	32	44	0.00059
+Streptococcus mitis	28037	S	97	122	219	0.00292
+Corynebacterium durum	61592	S	20	0	20	0.00027
+Rothia dentocariosa	2047	S	23	2	25	0.00033
+Corynebacterium singulare	161899	S	15	2	17	0.00023
+Staphylococcus capitis	29388	S	79	19	98	0.00131
+Mesorhizobium terrae	2725666	S	20	45	65	0.00087
+Vibrio metschnikovii	28172	S	194	16	210	0.00280
+Streptococcus sp. 116-D4	2598453	S	15	18	33	0.00044
+Aggregatibacter aphrophilus	732	S	17	3	20	0.00027
+Corynebacterium pseudodiphtheriticum	37637	S	10	1	11	0.00015
+Ralstonia wenshanensis	2842456	S	15	4	19	0.00025
+Capnocytophaga sputigena	1019	S	12	9	21	0.00028
+Haemophilus haemolyticus	726	S	13	8	21	0.00028
+Corynebacterium tuberculostearicum	38304	S	48	8	56	0.00075
+Elizabethkingia bruuniana	1756149	S	76	15	91	0.00121
+Aeromonas salmonicida	645	S	1793	425	2218	0.02956
+Aeromonas hydrophila	644	S	32	46	78	0.00104
+Carnobacterium maltaromaticum	2751	S	169	7	176	0.00235
+Thermus sp. NEB1569	2918899	S	22	58	80	0.00107
+Moraxella nonliquefaciens	478	S	48	4	52	0.00069
+Cutibacterium acnes	1747	S	4169	209	4378	0.05836
+Streptococcus sp. A12	1759399	S	10	16	26	0.00035
+Schaalia odontolytica	1660	S	23	2	25	0.00033

@@ -1,0 +1,5 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Xanthomonas campestris	339	S	18	3	21	0.02425
+Cutibacterium acnes	1747	S	88	7	95	0.10970
+Corynebacterium kroppenstedtii	161879	S	282	17	299	0.34527
+Homo sapiens	9606	S	442	7	449	0.51848

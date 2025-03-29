@@ -1,0 +1,81 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus salivarius	1304	S	24	20	44	0.00001
+Streptococcus sanguinis	1305	S	79	37	116	0.00002
+Haemophilus parainfluenzae	729	S	109	13	122	0.00002
+Xanthomonas campestris	339	S	298	65	363	0.00005
+Streptococcus gordonii	1302	S	30	5	35	0.00001
+Streptococcus oralis	1303	S	75	75	150	0.00002
+Corynebacterium kroppenstedtii	161879	S	11	1	12	0.00000
+Lactococcus cremoris	1359	S	33	12	45	0.00001
+Moraxella osloensis	34062	S	208	39	247	0.00004
+Abiotrophia defectiva	46125	S	21	0	21	0.00000
+Actinomyces sp. oral taxon 169	712116	S	15	14	29	0.00000
+Corynebacterium kefirresidentii	1979527	S	55	8	63	0.00001
+Cardinium endosymbiont of Oedothorax gibbosus	931101	S	39	8	47	0.00001
+Ralstonia insidiosa	190721	S	20	26	46	0.00001
+Corynebacterium massiliense	441501	S	11	1	12	0.00000
+Staphylococcus arlettae	29378	S	11	0	11	0.00000
+Streptococcus sp. DTU_2020_1001019_1_SI_AUS_MUR_006	3077584	S	15	22	37	0.00001
+Acidocella sp. MX-AZ03	2697363	S	19	3	22	0.00000
+Brevibacterium aurantiacum	273384	S	39	37	76	0.00001
+Rothia mucilaginosa	43675	S	28	1	29	0.00000
+Cutibacterium avidum	33010	S	48	2	50	0.00001
+Cutibacterium granulosum	33011	S	1472	61	1533	0.00022
+Halomonas profundi	2852117	S	32	17	49	0.00001
+Malassezia restricta	76775	S	3960	30	3990	0.00058
+Streptococcus pseudopneumoniae	257758	S	10	12	22	0.00000
+Corynebacterium macginleyi	38290	S	15	0	15	0.00000
+Lawsonella clevelandensis	1528099	S	36	12	48	0.00001
+Agrobacterium pusense	648995	S	30	114	144	0.00002
+Acinetobacter johnsonii	40214	S	47	100	147	0.00002
+Vibrio metschnikovii	28172	S	81	10	91	0.00001
+Deinococcus radiodurans	1299	S	140	16	156	0.00002
+Shewanella algae	38313	S	11	11	22	0.00000
+Dolosigranulum pigrum	29394	S	63	0	63	0.00001
+Corynebacterium amycolatum	43765	S	12	19	31	0.00000
+Staphylococcus hominis	1290	S	170	19	189	0.00003
+Pantoea agglomerans	549	S	10	9	19	0.00000
+Gemella haemolysans	1379	S	46	5	51	0.00001
+Actinomyces naeslundii	1655	S	11	1	12	0.00000
+Cutibacterium modestum	2559073	S	193	8	201	0.00003
+Lactococcus lactis	1358	S	197	136	333	0.00005
+Streptococcus pneumoniae	1313	S	26	92	118	0.00002
+Homo sapiens	9606	S	6583469	62000	6645469	0.97351
+Micrococcus luteus	1270	S	30	77	107	0.00002
+Streptococcus thermophilus	1308	S	152	43	195	0.00003
+Idiomarina loihiensis	135577	S	10	1	11	0.00000
+Leptotrichia sp. oral taxon 212	712357	S	14	2	16	0.00000
+Dermacoccus nishinomiyaensis	1274	S	376	47	423	0.00006
+Ralstonia pickettii	329	S	13	13	26	0.00000
+Kytococcus sedentarius	1276	S	11	0	11	0.00000
+Serratia marcescens	615	S	71	163	234	0.00003
+Corynebacterium accolens	38284	S	316	224	540	0.00008
+Mycolicibacterium rufum	318424	S	27	62	89	0.00001
+Morococcus cerebrosus	1056807	S	22	37	59	0.00001
+Moraxella sp. DOX410	3076087	S	20	26	46	0.00001
+Deinococcus wulumuqiensis	980427	S	19	2	21	0.00000
+Actinomyces oris	544580	S	23	25	48	0.00001
+Veillonella rogosae	423477	S	22	3	25	0.00000
+Glutamicibacter arilaitensis	256701	S	14	2	16	0.00000
+Klebsiella phage N1M2	2664939	S	12	0	12	0.00000
+Streptococcus mitis	28037	S	67	57	124	0.00002
+Corynebacterium durum	61592	S	11	0	11	0.00000
+Rothia dentocariosa	2047	S	40	3	43	0.00001
+Elizabethkingia bruuniana	1756149	S	39	13	52	0.00001
+Staphylococcus capitis	29388	S	1316	167	1483	0.00022
+Staphylococcus aureus	1280	S	14	59	73	0.00001
+Staphylococcus epidermidis	1282	S	2553	310	2863	0.00042
+Halomonas sp. BDJS001	2992143	S	17	29	46	0.00001
+Gammapapillomavirus 23	1961680	S	45	0	45	0.00001
+Corynebacterium pseudodiphtheriticum	37637	S	35	4	39	0.00001
+Streptococcus gwangjuense	1433513	S	10	11	21	0.00000
+Veillonella parvula	29466	S	49	2	51	0.00001
+Corynebacterium tuberculostearicum	38304	S	139	13	152	0.00002
+Debaryomyces hansenii	4959	S	18	0	18	0.00000
+Aeromonas salmonicida	645	S	520	121	641	0.00009
+Aeromonas hydrophila	644	S	21	27	48	0.00001
+Aeromonas caviae	648	S	20	96	116	0.00002
+Moraxella nonliquefaciens	478	S	36	1	37	0.00001
+Cutibacterium acnes	1747	S	159225	4948	164173	0.02405
+Acinetobacter sp. Z1	2953738	S	11	4	15	0.00000
+Schaalia odontolytica	1660	S	16	4	20	0.00000

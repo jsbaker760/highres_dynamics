@@ -1,0 +1,20 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Corynebacterium durum	61592	S	10	0	10	0.00363
+Streptococcus sanguinis	1305	S	50	36	86	0.03119
+Rothia mucilaginosa	43675	S	11	2	13	0.00472
+Haemophilus parainfluenzae	729	S	17	3	20	0.00725
+Veillonella parvula	29466	S	14	4	18	0.00653
+Streptococcus mitis	28037	S	36	47	83	0.03011
+Streptococcus gordonii	1302	S	26	7	33	0.01197
+Streptococcus oralis	1303	S	16	28	44	0.01596
+Rothia aeria	172042	S	12	2	14	0.00508
+Malassezia restricta	76775	S	11	0	11	0.00399
+Abiotrophia defectiva	46125	S	17	4	21	0.00762
+Xanthomonas campestris	339	S	33	7	40	0.01451
+Rothia dentocariosa	2047	S	15	4	19	0.00689
+Staphylococcus epidermidis	1282	S	14	2	16	0.00580
+Corynebacterium matruchotii	43768	S	13	0	13	0.00472
+Homo sapiens	9606	S	2229	25	2254	0.81756
+Actinomyces oris	544580	S	10	11	21	0.00762
+Cutibacterium acnes	1747	S	14	1	15	0.00544
+Actinomyces naeslundii	1655	S	11	4	15	0.00544

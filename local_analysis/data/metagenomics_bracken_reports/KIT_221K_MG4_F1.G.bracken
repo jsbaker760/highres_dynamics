@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Staphylococcus	1279	G	409	33	442	0.00827
+Micrococcus	1269	G	10	6	16	0.00030
+Homo	9605	G	50263	503	50766	0.94957
+Cutibacterium	1912216	G	1583	30	1613	0.03017
+Rothia	32207	G	14	1	15	0.00028
+Malassezia	55193	G	146	0	146	0.00273
+Streptococcus	1301	G	187	5	192	0.00359
+Exiguobacterium	33986	G	14	0	14	0.00026
+Paracoccus	265	G	10	7	17	0.00032
+Lactococcus	1357	G	12	3	15	0.00028
+Acinetobacter	469	G	13	6	19	0.00036
+Pseudomonas	286	G	18	6	24	0.00045
+Prevotella	838	G	10	0	10	0.00019
+Actinomyces	1654	G	55	1	56	0.00105
+Corynebacterium	1716	G	105	7	112	0.00209

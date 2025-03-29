@@ -1,0 +1,38 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Xanthomonas campestris	339	S	102	13	115	0.00282
+Elizabethkingia bruuniana	1756149	S	35	10	45	0.00110
+Halomonas sp. BDJS001	2992143	S	57	45	102	0.00250
+Vibrio plantisponsor	664643	S	10	2	12	0.00029
+Pseudoalteromonas prydzensis	182141	S	11	27	38	0.00093
+Ralstonia insidiosa	190721	S	13	9	22	0.00054
+Enterobacter bugandensis	881260	S	30	117	147	0.00361
+Acidocella sp. MX-AZ03	2697363	S	33	24	57	0.00140
+Pandoraea apista	93218	S	26	5	31	0.00076
+Rothia mucilaginosa	43675	S	34	7	41	0.00101
+Malassezia restricta	76775	S	1058	2	1060	0.02601
+Tinduovirus TIN2	1982570	S	12	1	13	0.00032
+Shewanella algae	38313	S	13	12	25	0.00061
+Staphylococcus warneri	1292	S	10	6	16	0.00039
+Stenotrophomonas maltophilia	40324	S	12	32	44	0.00108
+Staphylococcus hominis	1290	S	16	2	18	0.00044
+Ralstonia pickettii	329	S	41	26	67	0.00164
+Oryzomicrobium terrae	1735038	S	35	16	51	0.00125
+Aeromonas hydrophila	644	S	31	65	96	0.00236
+Homo sapiens	9606	S	29859	206	30065	0.73772
+Idiomarina loihiensis	135577	S	12	1	13	0.00032
+Serratia marcescens	615	S	158	303	461	0.01131
+Moraxella osloensis	34062	S	12	1	13	0.00032
+Klebsiella phage N1M2	2664939	S	19	0	19	0.00047
+Conchiformibius steedae	153493	S	16	4	20	0.00049
+Cutibacterium acnes	1747	S	5681	234	5915	0.14514
+Staphylococcus pasteuri	45972	S	13	1	14	0.00034
+Vibrio metschnikovii	28172	S	144	16	160	0.00393
+Pseudoalteromonas sp. KG3	2951137	S	21	55	76	0.00186
+Staphylococcus epidermidis	1282	S	48	7	55	0.00135
+Corynebacterium tuberculostearicum	38304	S	59	47	106	0.00260
+Aeromonas salmonicida	645	S	1093	202	1295	0.03178
+Staphylococcus saccharolyticus	33028	S	291	16	307	0.00753
+Aeromonas caviae	648	S	25	100	125	0.00307
+Staphylococcus capitis	29388	S	14	3	17	0.00042
+Acinetobacter sp. Z1	2953738	S	19	40	59	0.00145
+Haemophilus parainfluenzae	729	S	17	3	20	0.00049

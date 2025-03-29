@@ -1,0 +1,168 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=64;
+	taxlabels
+	7AB1F_X12_49
+	7AB1F_X12_50
+	7AB1F_X12_53
+	7AB1F_X13_17
+	7AB1F_X13_19
+	7AB1N_X11_73
+	7AB1N_X11_77
+	7AB1N_X11_78
+	7AB1N_X11_82
+	7PA1C_X08_26
+	7PA1C_X08_27
+	7PA1C_X08_30
+	7PA1C_X08_31
+	7PA1C_X08_32
+	7PA1C_X08_37
+	7PA1C_X08_39
+	7PA1C_X08_43
+	7PA1C_X08_45
+	7PA1C_X14_01
+	7PA1C_X14_02
+	7PA1C_X14_03
+	7PA1C_X14_06
+	7PA1C_X14_07
+	7PA1C_X14_08
+	7PA1C_X14_09
+	7PA1C_X16_71
+	7PA1F_X09_03
+	7PA1F_X09_04
+	7PA1F_X09_05
+	7PA1F_X09_06
+	7PA1F_X09_18
+	7PA1F_X09_21
+	7PA1K_X10_75
+	7PA1K_X10_85
+	7PA1K_X10_89
+	7PA1K_X10_93
+	7PA1N_X10_41
+	7PA3C_X1765
+	7PA3C_X1788
+	7PA3C_X1790
+	7PA3C_X1792
+	7PA3F_X1705
+	7PA3F_X1706
+	7PA3F_X1713
+	7PA3F_X1715
+	7PA3F_X1716
+	7PA3N_X1731
+	7PA3N_X1742
+	7PA3N_X1753
+	7PB4C_16YC_86
+	7PB4C_16YC_89
+	7PB4C_16YC_91
+	7PB4C_16YC_95
+	7PB4C_Z01_1
+	7PB4C_Z01_5
+	7PB4F_16YC_20
+	7PB4K_16YC_49
+	7PB4K_16YC_55
+	7PB4K_16YC_57
+	7PB4K_16YC_63
+	7PB4K_16YC_64
+	7PB4K_16YC_68
+	7PB4N_16YC_48
+	anscestral_nucleotides
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (7PB4C_16YC_86:0.00000,(7PB4F_16YC_20:0.0719000,((anscestral_nucleotides:0.00000,7PB4C_16YC_91:0.0196100,(7PA3F_X1706:0.00654000,7PA1F_X09_03:0.00000):0.0457500,((7PB4K_16YC_64:0.0130700,(7PB4K_16YC_63:0.00654000,7PB4K_16YC_49:0.00654000):0.0196100,7PB4N_16YC_48:0.0588200):0.00654000,7AB1N_X11_77:0.0196100,((7AB1N_X11_73:0.00654000,(7PA1K_X10_93:0.00000,7PA1K_X10_89:0.00000,7PA1K_X10_85:0.00000,7PA1K_X10_75:0.00654000):0.0588200):0.0130700,(7PA3N_X1742:0.0130700,(7PA3N_X1753:0.00000,7PA3N_X1731:0.00654000,7PA1N_X10_41:0.00000):0.00654000):0.0392200,(7AB1N_X11_78:0.00654000,7AB1F_X13_19:0.00000,7PA1F_X09_21:0.00654000):0.0261400,(7PA1F_X09_05:0.00654000,7PA1C_X08_43:0.00654000):0.0196100,((7PA3C_X1792:0.00000,7PA3C_X1765:0.00000):0.00654000,7PA1C_X14_09:0.00654000,7PA1C_X08_39:0.00000):0.0130700,(((7PA3C_X1788:0.00000,(7PA3C_X1790:0.00000,7AB1N_X11_82:0.0196100):0.00654000):0.00654000,7AB1F_X13_17:0.00654000):0.0326800,7AB1F_X12_50:0.0196100,(7AB1F_X12_53:0.0130700,(7PA1C_X14_07:0.00654000,7PA1F_X09_18:0.00000,7PA1F_X09_06:0.00000,7PA1F_X09_04:0.00000):0.00654000):0.00654000,(7PA1C_X16_71:0.00000,7PA1C_X14_08:0.00000,7PA1C_X14_06:0.00000,7PA1C_X14_03:0.00000,7PA1C_X14_02:0.00000,7PA1C_X14_01:0.00000,7AB1F_X12_49:0.0392200,7PA1C_X08_45:0.00000,7PA1C_X08_37:0.00000,7PA1C_X08_32:0.00000,7PA1C_X08_31:0.00000,7PA1C_X08_30:0.00000,7PA1C_X08_27:0.00000,7PA1C_X08_26:0.00000):0.0130700):0.00654000):0.00654000):0.0130700):0.00654000,(7PB4C_16YC_95:0.0522900,(7PA3F_X1716:0.00000,7PA3F_X1715:0.00000,7PA3F_X1713:0.00654000,7PA3F_X1705:0.00000):0.0130700,((7PB4K_16YC_68:0.00000,7PB4K_16YC_55:0.00000):0.0392200,(7PB4K_16YC_57:0.00000,(7PB4C_16YC_89:0.00654000,7PB4C_Z01_5:0.0457500):0.00654000):0.0261400):0.0261400):0.00654000):0.00654000):0.0326800,7PB4C_Z01_1:0.00000);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.boxSize=4;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set tipLabels.tipPath=true;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

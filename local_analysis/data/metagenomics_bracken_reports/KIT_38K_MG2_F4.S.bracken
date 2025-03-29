@@ -1,0 +1,53 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus sanguinis	1305	S	17	9	26	0.00083
+Xanthomonas campestris	339	S	676	88	764	0.02429
+Corynebacterium ureicelerivorans	401472	S	15	1	16	0.00051
+Streptococcus gordonii	1302	S	31	6	37	0.00118
+Streptococcus oralis	1303	S	32	34	66	0.00210
+Corynebacterium kroppenstedtii	161879	S	1605	27	1632	0.05189
+Moraxella osloensis	34062	S	24	8	32	0.00102
+Corynebacterium kefirresidentii	1979527	S	22	4	26	0.00083
+Pseudoalteromonas prydzensis	182141	S	11	17	28	0.00089
+Janibacter indicus	857417	S	20	49	69	0.00219
+Enterobacter bugandensis	881260	S	22	110	132	0.00420
+Ralstonia insidiosa	190721	S	44	22	66	0.00210
+Janibacter sp. CX7	2963431	S	14	4	18	0.00057
+Acidocella sp. MX-AZ03	2697363	S	47	11	58	0.00184
+Pandoraea apista	93218	S	14	6	20	0.00064
+Actinomyces oris	544580	S	20	24	44	0.00140
+Streptococcus mitis	28037	S	22	21	43	0.00137
+Malassezia restricta	76775	S	55	3	58	0.00184
+Shewanella algae	38313	S	24	15	39	0.00124
+Abiotrophia defectiva	46125	S	15	2	17	0.00054
+Acinetobacter johnsonii	40214	S	11	27	38	0.00121
+Corynebacterium matruchotii	43768	S	32	0	32	0.00102
+Corynebacterium amycolatum	43765	S	33	54	87	0.00277
+Stenotrophomonas maltophilia	40324	S	15	20	35	0.00111
+Staphylococcus hominis	1290	S	19	4	23	0.00073
+Ralstonia pickettii	329	S	50	27	77	0.00245
+Oryzomicrobium terrae	1735038	S	29	8	37	0.00118
+Actinomyces naeslundii	1655	S	21	3	24	0.00076
+Homo sapiens	9606	S	21863	236	22099	0.70265
+Micrococcus luteus	1270	S	26	98	124	0.00394
+Elizabethkingia bruuniana	1756149	S	41	11	52	0.00165
+Idiomarina loihiensis	135577	S	12	3	15	0.00048
+Cupriavidus metallidurans	119219	S	17	7	24	0.00076
+Dermacoccus nishinomiyaensis	1274	S	47	6	53	0.00169
+Serratia marcescens	615	S	172	371	543	0.01726
+Klebsiella phage N1M2	2664939	S	11	0	11	0.00035
+Veillonella parvula	29466	S	21	2	23	0.00073
+Neisseria sp. oral taxon 014	641148	S	13	17	30	0.00095
+Halomonas sp. BDJS001	2992143	S	26	19	45	0.00143
+Rothia dentocariosa	2047	S	27	3	30	0.00095
+Staphylococcus capitis	29388	S	12	3	15	0.00048
+Vibrio metschnikovii	28172	S	119	16	135	0.00429
+Staphylococcus haemolyticus	1283	S	22	6	28	0.00089
+Staphylococcus epidermidis	1282	S	78	19	97	0.00308
+Pseudoalteromonas sp. KG3	2951137	S	14	22	36	0.00114
+Corynebacterium tuberculostearicum	38304	S	68	9	77	0.00245
+Aeromonas salmonicida	645	S	916	268	1184	0.03765
+Aeromonas hydrophila	644	S	25	47	72	0.00229
+Aeromonas caviae	648	S	13	86	99	0.00315
+Corynebacterium uberis	2883169	S	25	0	25	0.00079
+Cutibacterium acnes	1747	S	2889	157	3046	0.09685
+Acinetobacter sp. Z1	2953738	S	13	5	18	0.00057

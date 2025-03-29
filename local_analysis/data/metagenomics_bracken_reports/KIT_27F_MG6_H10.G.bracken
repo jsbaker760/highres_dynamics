@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Staphylococcus	1279	G	23	8	31	0.01785
+Micrococcus	1269	G	32	8	40	0.02303
+Homo	9605	G	1395	22	1417	0.81577
+Corynebacterium	1716	G	75	18	93	0.05354
+Malassezia	55193	G	39	0	39	0.02245
+Streptococcus	1301	G	27	3	30	0.01727
+Pseudomonas	286	G	15	3	18	0.01036
+Neisseria	482	G	11	8	19	0.01094
+Actinomyces	1654	G	18	2	20	0.01151
+Cutibacterium	1912216	G	24	3	27	0.01554
