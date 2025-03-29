@@ -31,7 +31,7 @@ The current verion of PHLAME can be found [here](https://github.com/quevan/phlam
 
 A full clone of data/ (36GB) is available on [DropBox](https://www.dropbox.com/scl/fo/2lartzjhtgubxvgamjcd7/AGw1K-xHXGwe99iwP_vWEZs?rlkey=dlor01adbbii9sgvctqu7w6uz&dl=0).
 
-# all_figures
+# local_analysis
 
 all_figures.m with [pre-computed data](#data-availability) will re-generate all figures in the manuscript:
     * Filters and analyzes metagenomics data (STAR Methods: Lineage diversity and sharing across subjects)
