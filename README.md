@@ -44,7 +44,7 @@ all_figures.m with [pre-computed data](#data-availability) will re-generate all 
     * Measures multi-genotype transmissions, directionality, dMRCAs, dN/dS in lineage phylogenies, molecular clocks.
     * and more!!
 
-# snakemake_raw_data
+# snakemakes
 * "Snakemake 1"
   * 1a. Creates and annotates unfiltered genome assemblies from each isolate, which were used only to filter isolate genomes (STAR Methods:Isolating colonies and Filtering isolates)
   * 1b. Takes raw demultiplexed fastq reads from each isolate, performs basic filtering,
